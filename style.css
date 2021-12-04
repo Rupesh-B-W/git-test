@@ -1,0 +1,147 @@
+.header{
+    position: relative;
+    background-color: white;
+    height: 80px;
+}
+
+.right{
+    position: absolute;
+    right: 250px;
+    top:0px;
+}
+.right li{
+    
+    float: right;
+    list-style: none;
+    padding: 20px;
+    font-family: sans-serif;
+
+}
+.left{
+    position: absolute;
+    top:10px;
+    left:60px;
+    font-size: 40px;
+    font-family: monospace;
+}
+.Brand{
+    margin-left: 60px;
+}
+.Floor{
+    font-family:CircularXX ;
+    margin-left: 55px;
+    font-size: 40px;
+    font-style: bold;
+    margin-top: 0px;
+}
+.image{
+    position: relative;
+}
+.floor1{
+    position: absolute;
+    left:55px;
+}
+.floor2{
+    position: absolute;
+    left:480px;
+}
+.floor3{
+    position: absolute;
+    right: 60px;
+}
+.ftext{
+    position: relative;
+}
+.ftext1{
+    position: absolute;
+    top:330px;
+    left:55px;
+    
+    font-family: monospace;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 535;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: right;
+}
+
+.ftextin1{
+    position: absolute;
+    font-family: CircularXX;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 316px;
+    padding-top: 30px;
+
+}
+.ftext2{
+    width: 190px;
+    position: absolute;
+    top:330px;
+    left:480px;
+    font-family: monospace;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 535;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: right;
+
+
+
+
+}
+.ftext2 div{
+    font-size: 24px;
+    position: absolute;
+    position: absolute;
+    font-family: CircularXX;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 316px;
+    padding-top: 30px;
+
+}
+.ftext3{
+    position: absolute;
+    top:330px;
+    right: 80px;
+    font-family: monospace;
+    font-size: 36px;
+    margin-top: 0px;
+    line-height: 16px;
+
+
+}
+.ftextin3{
+    position: absolute;
+    font-family: CircularXX;
+    padding-top: 30px;
+    font-size: 24px;
+
+
+}
+.line{
+    position: relative;
+    top:500px;
+}
+
+
+.image2{
+    position: relative;
+    top:650px;
+
+}
+.entrance1{
+    position: absolute;
+    left:55px;
+}
